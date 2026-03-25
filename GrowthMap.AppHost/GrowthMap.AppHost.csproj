@@ -1,0 +1,15 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.1.0">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>09dbe3e9-876d-40c4-9ffc-471b2bce86e2</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GrowthMap.Api\GrowthMap.Api.csproj" />
+  </ItemGroup>
+
+</Project>

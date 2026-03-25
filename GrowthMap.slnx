@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="GrowthMap.Api/GrowthMap.Api.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="GrowthMap.Application/GrowthMap.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="GrowthMap.Domain/GrowthMap.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Host/">
+    <Project Path="GrowthMap.AppHost/GrowthMap.AppHost.csproj" />
+  </Folder>
+  <Folder Name="/Infraestructure/">
+    <Project Path="GrowthMap.Persistence/GrowthMap.Persistence.csproj" />
+  </Folder>
+</Solution>
